@@ -1,6 +1,8 @@
-
+body{
+  background-color: white;
+}
 .appBar{
-  background-color: whitesmoke;
+  background-color: white;
   display: flex;
   justify-content: space-around
 }
@@ -38,4 +40,9 @@ margin-left: 5px;
 }
 .loginPage>h2{
   margin-top: 0px;
+}
+.addBtn{
+  position: relative;
+  left: 30px;
+  top: 50px;
 }
